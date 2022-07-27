@@ -1,0 +1,6 @@
+.NET 6,https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-6
+Puppeteer Sharp,https://www.puppeteersharp.com/
+NoServer,http://8.8.8.8
+Example404,http://localhost/aspnet/examples/no-such-page.aspx
+Example401,http://localhost/aspnet/examples/401.aspx
+Example500,http://localhost/aspnet/examples/500.aspx
